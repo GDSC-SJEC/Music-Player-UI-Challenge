@@ -3,3 +3,4 @@
 - [Avinash Muralidharan](https://github.com/avi7501)
 
 - [Godnon Dsilva](https://github.com/godnondsilva)
+- [Adithya K Shetty](https://github.com/Adithya-K-Shetty)
