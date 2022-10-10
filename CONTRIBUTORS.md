@@ -8,5 +8,6 @@
 - [Ashish Kishore](https://github.com/Ashish4869)
 - [Pravin Kumar](https://github.com/pravin-pk)
 - [Shanwill Pinto](https://github.com/data-charya)
+- [Hertafui](https://github.com/hertafui)
 
 
