@@ -10,4 +10,4 @@
 - [Shanwill Pinto](https://github.com/data-charya)
 - [Hertafui](https://github.com/hertafui)
 - [Oren Saldanha](https://github.com/orensaldanha)
-
+- [Vyasa M Nayak](https://github.com/SeptiCalls)
