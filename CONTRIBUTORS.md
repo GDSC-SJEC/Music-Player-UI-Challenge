@@ -11,4 +11,4 @@
 - [Hertafui](https://github.com/hertafui)
 - [Oren Saldanha](https://github.com/orensaldanha)
 - [Vyasa M Nayak](https://github.com/SeptiCalls)
-- [Abhi](https://github.com/RedBuce/)
+- [RedBuce](https://github.com/RedBuce/)
