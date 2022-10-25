@@ -12,3 +12,5 @@
 - [Oren Saldanha](https://github.com/orensaldanha)
 - [Vyasa M Nayak](https://github.com/SeptiCalls)
 - [RedBuce](https://github.com/RedBuce/)
+- [Divya Pawar](https://github.com/Div-develops)
+
